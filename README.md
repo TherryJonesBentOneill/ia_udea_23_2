@@ -1,3 +1,6 @@
+# Ai4eng.v1
+ Curso de Introduccion a la Inteligencia Artificial en la Universidad de Antioquia, Medellín, facultad de ingenieria.
+
 # Proyecto 1
 
 ## Miembros del grupo
