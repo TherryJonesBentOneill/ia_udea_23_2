@@ -5,7 +5,8 @@
 
 ## Miembros del grupo
 
-- Therry Jones Bnet O'neill, CC 1107433181, Ingeniería Electrica
+- Therry Jones Bnet O'neill, CC 1107433181, Ingeniería Electrica 
+- Julián Mateo Mena Urrego,  CC , Ingeniería Electrica
 
 
 ## Datos
