@@ -14,4 +14,4 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [https://www.kaggle.com/competitions/playground-series-s3e20/overview), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos.
+Los datos del proyecto vienen de [https://www.kaggle.com/competitions/playground-series-s3e20/overview).
