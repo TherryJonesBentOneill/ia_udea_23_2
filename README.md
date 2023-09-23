@@ -7,13 +7,16 @@
 
 - Therry Jones Bnet O'neill, CC 1107433181, Ingeniería Electrica 
 - Julián Mateo Mena Urrego,  CC 1038821102, Ingeniería Electrica
+- Miguel Angel Rivera Florez, CC 1152467107, Ingeniería Electrica
+
+
 
 
 ## Datos
 
 Los datos del proyecto vienen de [La competición Kaggle Titanic](https://www.kaggle.com/c/titanic), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
-    ! comando 1
+    ! comando 1 = https://www.kaggle.com/competitions/playground-series-s3e20/overview
     ! comando 2
     
 después de haber configurado `.kaggle/kaggle.json` de tal y tal manera.
