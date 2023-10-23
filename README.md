@@ -18,3 +18,4 @@ Los datos del proyecto vienen de [https://www.kaggle.com/competitions/playground
 
 
 ## Enlance del video
+https://www.youtube.com/watch?v=PEPnZ4h9w5g&ab_channel=MIGUELANGELRIVERAFL%C3%93REZ
