@@ -15,3 +15,6 @@
 ## Datos
 
 Los datos del proyecto vienen de [https://www.kaggle.com/competitions/playground-series-s3e20/overview).
+
+
+## Enlance del video
