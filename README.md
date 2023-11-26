@@ -21,4 +21,4 @@ Los datos del proyecto vienen de [https://www.kaggle.com/competitions/playground
 
 *  Video - Entrega 2 : https://www.youtube.com/watch?v=PEPnZ4h9w5g&ab_channel=MIGUELANGELRIVERAFL%C3%93REZ
   
-*  Video - Entrega Final: 
+*  Video - Entrega Final: https://youtu.be/tPbgw9n5UiI?si=TRppXdzOnTg1uEUI
